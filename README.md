@@ -5,7 +5,7 @@ Hi there! I'm Ali Hassan, a passionate Web and App Developer. I love building th
 <a href="https://www.linkedin.com/in/alihassan521/"><img src="https://img.shields.io/badge/-Ali%20Hassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:itx.hassan521@gmail.com"><img src="https://img.shields.io/badge/-itx.hassan521@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/alihassan521/"><img src="https://img.shields.io/badge/-/alihassan521-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
- <a href="https://github.com/AliHassan521"><img src="https://img.shields.io/badge/-/alihassan521-e8b519?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/alihassan521"><img src="https://img.shields.io/badge/-alihassan521-181717?style=flat&logo=GitHub&logoColor=white"/></a>
  </p>
 
 
