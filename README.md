@@ -1,20 +1,106 @@
-# 💫 About Me:
-Hi there! I'm Ali Hassan, a passionate Web and App Developer. I love building things for the web and app and exploring new technologies. Here's a little bit about me:<br><br>🔭 I’m currently working as student at UET, Lahore.<br>👯 I’m looking to collaborate with content creator and developers.<br>🌱 I’m currently learning MERN Stack and Flutter.<br>💬 Ask me about Web and App.<br>📫 How to reach me:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Ali Hassan</title>
+  <style>body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alihassan521/" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-Ali%20Hassan-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:itx.hassan521@gmail.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-itx.hassan521%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://leetcode.com/alihassan521/" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-Ali Hassan-e8b519?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://github.com/alihassan521">
-    <img src="https://img.shields.io/badge/-Ali Hassan-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
-  </a>
-</div>
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.intro {
+  margin-bottom: 20px;
+}
+
+.intro ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.intro ul li {
+  margin-bottom: 10px;
+}
+
+.contact {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.contact h2 {
+  color: #333;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.social-links a {
+  margin-right: 10px;
+}
+
+.social-links img {
+  width: 40px;
+  height: 40px;
+}
+</style>
+</head>
+<body>
+  <header>
+    <h1>About Me: Ali Hassan</h1>
+  </header>
+  <main>
+    <section class="intro">
+      <p>
+        Hi there! I'm Ali Hassan, a passionate Web and App Developer. I love building things for the web and app and exploring new technologies.
+      </p>
+      <ul>
+        <li>🔭 I’m currently studying at UET, Lahore.</li>
+        <li>👯 I’m looking to collaborate with content creators and developers.</li>
+        <li>🌱 I’m currently learning MERN Stack and Flutter.</li>
+        <li>💬 Ask me about Web and App.</li>
+      </ul>
+    </section>
+    <section class="contact">
+      <h2>How to reach me:</h2>
+      <div class="social-links">
+        <a href="https://www.linkedin.com/in/alihassan521/">
+          <img src="linkedin.png" alt="LinkedIn">
+        </a>
+        <a href="mailto:itx.hassan521@gmail.com">
+          <img src="gmail.png" alt="Gmail">
+        </a>
+        <a href="https://leetcode.com/alihassan521/">
+          <img src="leetcode.png" alt="LeetCode">
+        </a>
+        <a href="https://github.com/alihassan521">
+          <img src="github.png" alt="GitHub">
+        </a>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
+
 
 
 
