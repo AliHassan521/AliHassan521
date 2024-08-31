@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I love to play cricket and watch comedy videos on youtube and facebook.**
 
-## How to reach me:
+# How to reach me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alihassan521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40"></a>
