@@ -34,8 +34,7 @@
   <a href="https://instagram.com/aliha_ssan423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._" height="30" width="40"></a>
   <a href="https://www.hackerrank.com/alihassan0576891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adampithewan" height="30" width="40"></a>
  <a href="https://github.com/alihassan521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="adampithewan" height="30" width="40"></a>
-  <a href="https://leetcode.com/alihassan521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="adampithewan" height="30" width="40"></a>
-  <a href="mailto:itx.hassan521@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="adampithewan" height="30" width="40"></a>
+  
 </p>
 <br>
 
