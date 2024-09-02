@@ -16,13 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://alihassan521.tech/](https://alihassan521.tech/)
-
-- 📝 I regularly write articles on [https://hashnode.com/@hassan521](https://hashnode.com/@hassan521)
-
 - 💬 Ask me about **Web and App Development**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L6evlAotsAQ_JqP7Ijd0wiMijkt_eHzv/view?usp=drive_link](https://drive.google.com/file/d/1L6evlAotsAQ_JqP7Ijd0wiMijkt_eHzv/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to play cricket and watch comedy videos on youtube and facebook.**
 
