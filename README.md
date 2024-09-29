@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying at UET, Lahore.
   
-- 🔭 I’m currently working on my FYP **Glucose Monitoring System using ML**
+- 🔭 I’m currently working on my FYP **Machine Learning Based Non-Invasive Glucose Monitoring System using IoT(MLNGMS)**
 
 - 🌱 I’m currently learning **MERN and React-Native**
 
