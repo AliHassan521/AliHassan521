@@ -12,7 +12,7 @@
   
 - 🔭 I’m currently working on my FYP **Machine Learning Based Non-Invasive Glucose Monitoring System using IoT(MLNGMS)**
 
-- 🌱 I’m currently learning **MERN and React-Native**
+- 🌱 I’m currently learning **MERN and Flutter**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
