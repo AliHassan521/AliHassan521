@@ -8,17 +8,17 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently studying at UET, Lahore.
+- 🔭 Graduated from UET, Lahore.
   
-- 🔭 I’m currently working on my FYP **Machine Learning Based Non-Invasive Glucose Monitoring System using IoT(MLNGMS)**
+- 🔭 I’m currently working as an Full-Stack Intern **CureMD**
 
-- 🌱 I’m currently learning **MERN and Flutter**
+- 🌱 I’m currently learning **.NET and Angular**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **Web and App Development**
 
-- ⚡ Fun fact **I love to play cricket and watch comedy videos on youtube and facebook.**
+- ⚡ Fun fact **I love to play cricket and watch comedy videos on youtube.**
 
 # How to reach me:
 
