@@ -10,7 +10,7 @@
 
 - 🔭 Graduated from UET, Lahore.
   
-- 🔭 I’m currently working as an Full-Stack Intern **CureMD**
+- 🔭 I’m currently working as Full-Stack Intern **CureMD**
 
 - 🌱 I’m currently learning **.NET and Angular**
 
