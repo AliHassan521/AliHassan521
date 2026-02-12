@@ -10,7 +10,7 @@
 
 - 🔭 Graduated from UET, Lahore.
   
-- 🔭 I’m currently working as Software Trainee Engineer **CureMD**
+- 🔭 I’m currently working as Associate Softwar Engineer **CureMD**
 
 - 🌱 I’m currently learning **.NET and Angular**
 
