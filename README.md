@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan</h1>
-<h3 align="center">Software Engineer | Backend-focused Full-Stack Developer | Transitioning into MERN</h3>
+<h3 align="center">Software Engineer | Backend-focused Full-Stack Developer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -9,23 +9,7 @@
 - 🧠 Strong foundation in OOP, SOLID principles, REST API design, and relational databases (SQL Server, MySQL)
 - 👯 Looking to collaborate on open-source projects, especially anything full-stack JS
 - 💬 Ask me about backend architecture, REST APIs, or SQL — happy to help
-- ⚡ Fun fact: I love playing cricket and watching comedy videos on YouTube# About Me:
-<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
-<h3 align="center">A passionate Web and App developer from Pakistan</h3>
-
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-- 🔭 Graduated from UET, Lahore.
-  
-- 🔭 I’m currently working as Associate Softwar Engineer **CureMD**
-
-- 🌱 I’m currently learning **.NET and Angular**
-
-- 👯 I’m looking to collaborate on **Open source projects**
-
-- 💬 Ask me about **Web and App Development**
-
-- ⚡ Fun fact **I love to play cricket and watch comedy videos on youtube.**
+- ⚡ Fun fact: I love playing cricket and watching comedy videos on YouTube#
 
 # How to reach me:
 
